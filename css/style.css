@@ -1,0 +1,42 @@
+html, body {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 50px 550px; 
+}
+
+
+header {
+    font-family: 'Barlow Condensed', sans-serif;
+    grid-column: span 12;
+    display: flex;
+}
+
+
+main {
+    grid-column: span 6;
+}
+
+aside {
+    grid-column: span 6;
+}
+
+
+button {
+    background-color: hsl(0, 100%, 68%);
+    font-family: 'Barlow Condensed', sans-serif;
+    color: white;
+    padding: 18px 80px;
+    text-align: center;
+    display: inline;
+    font-size: 17px;
+    border-radius: 30px;
+    /* margin-top: 22px; */
+    /* background-image: url(../images/bg-hero-desktop.svg);  */
+    cursor: pointer;
+}
