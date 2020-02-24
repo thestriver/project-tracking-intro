@@ -4,16 +4,8 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Thanks for checking out.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
+This was a [Frontend Mentor](https://www.frontendmentor.io) challenge and it was fun trying to get this done with Pure CSS. Tried to avoid using Tachyons library which can sometimes bes frustrating!
 
-
-
-
-
-
-
-
-
-**Have fun building!** 🚀
+Going forward,  I would be only be taking on JS related challenges. 🚀
